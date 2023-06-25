@@ -1,6 +1,5 @@
 - 👌 Hi, I’m @AkhilPeruri
 -  I’m interested in Cloud computing, 3D modelling, Arduino models.
--  
 - 📫 How to reach me - Email: akhilperuri@live.com
   
 
